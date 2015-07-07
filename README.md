@@ -26,10 +26,13 @@ Download
 
 Publications
 ------------
-
 * Dimitris Mitropoulos, Vassilios Karakoidas, Panos Louridas, Georgios Gousios, and Diomidis Spinellis. The bug catalog of the Maven ecosystem. *In MSR '14: Proceedings of the 2014 International Working Conference on Mining Software Repositories*. ACM, 2014
 * Dimitris Mitropoulos, Vassilios Karakoidas, Panos Louridas, Georgios Gousios, and Diomidis Spinellis. Dismal code: Studying the evolution of security bugs. *In Proceedings of the LASER Workshop 2013, Learning from Authoritative Security Experiment Results*, pages 37-48. Usenix Association, October 2013. (See also the corresponding [Github repository](https://github.com/bkarak/evol_security_publication_2012))
+* Dimitris Mitropoulos, Georgios Gousios, Panagiotis Papadopoulos, Vassilios Karakoidas, Panos Louridas, and Diomidis Spinellis. The vulnerability dataset of a large software ecosystem. *In Proceedings of the 3rd International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security* (BADGERS 2014), colocated with the 19th European Symposium on Research in Computer Security (ESORICS 2014). IEEE Computer Society, September 2014.
 
+Acknowledgements
+----------------
+This dataset was created during the [tracer](http://www.tracer-project.gr/) project and is being co-financed by the European Regional Development Fund (ERDF) and national funds and is a part of the Operational Programme "Competitiveness & Entrepreneurship" (OPCE II), Measure “COOPERATION” (Action I).
 
 Contributors
 ------------
